@@ -1,6 +1,8 @@
 # Scroll-to
 Created this easy scroll to code for one page websites.
 
+######Minimum requirement of jQuery 2.x!
+
 ## Step 1
 Make sure your menu items are in href tag like below here
 
